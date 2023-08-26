@@ -1,0 +1,19 @@
+{
+  "name": "@yi1lei6a3/ajs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yi1lei6a3/ajs.git"
+  },
+  "author": "Ilya Dubinin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yi1lei6a3/ajs/issues"
+  },
+  "homepage": "https://github.com/yi1lei6a3/ajs#readme"
+}
